@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,a}from"./app.793b1d10.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"godotengine/cb/codebase.md"}'),s={name:"godotengine/cb/codebase.md"},c=a("p",null,"\u4EE3\u7801\u5E93",-1),n=[c];function r(d,_,i,p,l,m){return o(),t("div",null,n)}var b=e(s,[["render",r]]);export{u as __pageData,b as default};
