@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.9006bf41.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"godot/README.md"}'),s={name:"godot/README.md"},r=a("p",null,"godot",-1),n=[r];function c(d,_,p,i,l,m){return o(),t("div",null,n)}var u=e(s,[["render",c]]);export{E as __pageData,u as default};
