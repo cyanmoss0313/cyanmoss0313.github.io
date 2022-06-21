@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as s}from"./app.1905c7bb.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"godot/basics/index.md"}'),o={name:"godot/basics/index.md"},n=s("p",null,"basics",-1),c=[n];function r(d,i,_,p,l,m){return a(),t("div",null,c)}var x=e(o,[["render",r]]);export{u as __pageData,x as default};

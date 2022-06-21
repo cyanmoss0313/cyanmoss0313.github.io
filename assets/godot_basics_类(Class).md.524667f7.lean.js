@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,b as l}from"./app.1905c7bb.js";const C=JSON.parse('{"title":"\u5BF9\u8C61object","description":"","frontmatter":{},"headers":[],"relativePath":"godot/basics/\u7C7B(Class).md"}'),p={name:"godot/basics/\u7C7B(Class).md"},e=l("",60),o=[e];function r(c,t,i,y,D,F){return a(),n("div",null,o)}var b=s(p,[["render",r]]);export{C as __pageData,b as default};
