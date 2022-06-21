@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,b as p}from"./app.9006bf41.js";const C=JSON.parse('{"title":"","description":"","frontmatter":"title:\u7C7B","headers":[],"relativePath":"godot/basics/\u7C7B.md"}'),l={name:"godot/basics/\u7C7B.md"},e=p("",12),c=[e];function r(i,o,t,b,m,u){return a(),n("div",null,c)}var d=s(l,[["render",r]]);export{C as __pageData,d as default};
