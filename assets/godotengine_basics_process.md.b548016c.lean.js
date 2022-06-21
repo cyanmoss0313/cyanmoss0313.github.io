@@ -1,1 +1,0 @@
-import{_ as p,c as e,o as s,b as t}from"./app.f4981811.js";const f=JSON.parse('{"title":"","description":"","frontmatter":"title:process","headers":[],"relativePath":"godotengine/basics/process.md"}'),o={name:"godotengine/basics/process.md"},_=t("",15),r=[_];function c(a,n,i,d,l,m){return s(),e("div",null,r)}var T=p(o,[["render",c]]);export{f as __pageData,T as default};
