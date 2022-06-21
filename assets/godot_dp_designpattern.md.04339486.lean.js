@@ -1,1 +1,0 @@
-import{_ as e,c as p,o as t,b as a}from"./app.9006bf41.js";const f=JSON.parse('{"title":"\u5B9A\u4E49","description":"","frontmatter":{},"headers":[],"relativePath":"godot/dp/designpattern.md"}'),r={name:"godot/dp/designpattern.md"},o=a("",22),n=[o];function i(c,d,s,_,l,h){return t(),p("div",null,n)}var m=e(r,[["render",i]]);export{f as __pageData,m as default};

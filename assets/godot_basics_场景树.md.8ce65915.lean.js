@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,b as p}from"./app.1905c7bb.js";const D=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"godot/basics/\u573A\u666F\u6811.md"}'),s={name:"godot/basics/\u573A\u666F\u6811.md"},_=p("",11),a=[_];function r(n,i,c,d,l,m){return o(),t("div",null,a)}var f=e(s,[["render",r]]);export{D as __pageData,f as default};

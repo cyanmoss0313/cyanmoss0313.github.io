@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.1905c7bb.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"godot/cb/codebase.md"}'),s={name:"godot/cb/codebase.md"},c=a("p",null,"\u4EE3\u7801\u5E93",-1),r=[c];function n(d,_,p,i,l,m){return o(),t("div",null,r)}var b=e(s,[["render",n]]);export{u as __pageData,b as default};

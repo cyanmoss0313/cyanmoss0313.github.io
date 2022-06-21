@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as s,b as t}from"./app.1905c7bb.js";const f=JSON.parse('{"title":"","description":"","frontmatter":"title:process","headers":[],"relativePath":"godot/basics/process.md"}'),o={name:"godot/basics/process.md"},_=t("",15),r=[_];function c(a,n,i,d,l,m){return s(),e("div",null,r)}var T=p(o,[["render",c]]);export{f as __pageData,T as default};
