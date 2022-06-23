@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,b as l}from"./app.fb145526.js";const C=JSON.parse('{"title":"","description":"","frontmatter":"title:\u7C7B","headers":[],"relativePath":"godotengine/basics/\u7C7B.md"}'),p={name:"godotengine/basics/\u7C7B.md"},o=l("",12),e=[o];function c(r,t,F,i,y,D){return a(),n("div",null,e)}var b=s(p,[["render",c]]);export{C as __pageData,b as default};
