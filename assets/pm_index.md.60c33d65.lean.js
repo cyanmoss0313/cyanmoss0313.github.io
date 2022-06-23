@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as n}from"./app.fb145526.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pm/index.md"}'),o={name:"pm/index.md"},s=n("p",null,"pm",-1),r=[s];function c(d,p,_,i,m,l){return a(),t("div",null,r)}var x=e(o,[["render",c]]);export{u as __pageData,x as default};

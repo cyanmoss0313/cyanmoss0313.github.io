@@ -1,0 +1,1 @@
+import{_ as e,c as p,o as t,b as a}from"./app.fb145526.js";const f=JSON.parse('{"title":"\u5B9A\u4E49","description":"","frontmatter":{},"headers":[],"relativePath":"godotengine/dp/designpattern.md"}'),r={name:"godotengine/dp/designpattern.md"},o=a("",22),n=[o];function i(c,d,s,_,l,h){return t(),p("div",null,n)}var m=e(r,[["render",i]]);export{f as __pageData,m as default};
