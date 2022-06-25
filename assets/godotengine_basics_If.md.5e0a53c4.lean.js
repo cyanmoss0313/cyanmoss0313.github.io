@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,b as p}from"./app.942f1314.js";const C=JSON.parse('{"title":"\u6761\u4EF6\u5224\u65AD","description":"","frontmatter":{},"headers":[],"relativePath":"godotengine/basics/If.md"}'),l={name:"godotengine/basics/If.md"},e=p("",6),o=[e];function r(t,c,D,F,y,i){return a(),n("div",null,o)}var m=s(l,[["render",r]]);export{C as __pageData,m as default};

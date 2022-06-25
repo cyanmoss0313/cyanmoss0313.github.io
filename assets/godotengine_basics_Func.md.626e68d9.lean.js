@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,b as l}from"./app.942f1314.js";const C=JSON.parse('{"title":"\u65B9\u6CD5","description":"","frontmatter":{},"headers":[],"relativePath":"godotengine/basics/Func.md"}'),p={name:"godotengine/basics/Func.md"},e=l("",15),o=[e];function c(r,t,F,i,D,y){return a(),n("div",null,o)}var m=s(p,[["render",c]]);export{C as __pageData,m as default};
