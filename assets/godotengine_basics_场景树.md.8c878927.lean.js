@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,b as p}from"./app.cfd78b1e.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"godotengine/basics/\u573A\u666F\u6811.md"}'),s={name:"godotengine/basics/\u573A\u666F\u6811.md"},_=p("",11),a=[_];function n(r,i,c,d,l,m){return o(),t("div",null,a)}var D=e(s,[["render",n]]);export{h as __pageData,D as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as s,b as n}from"./app.942f1314.js";const y=JSON.parse('{"title":"Allocate Memory","description":"","frontmatter":{},"headers":[],"relativePath":"godotengine/basics/LifeCycle.md"}'),o={name:"godotengine/basics/LifeCycle.md"},r=n("",11),l=[r];function p(c,t,i,d,m,_){return s(),a("div",null,l)}var u=e(o,[["render",p]]);export{y as __pageData,u as default};
